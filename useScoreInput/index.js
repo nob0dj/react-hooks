@@ -1,0 +1,1 @@
+export { useScoreInput as default } from "./useScoreInput";
